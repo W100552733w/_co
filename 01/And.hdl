@@ -11,7 +11,7 @@
 
 CHIP And {
     IN a, b;
-    OUT out;
+    OUT out;1
 
     PARTS:
     // Put your code here:
