@@ -19,6 +19,6 @@ CHIP FullAdder {
     AND(a =a,b = b,out = ana);
     AND(a =a,b = c,out = anb);
     AND(a =b,b = c,out = anc);
-    OR(a = ana,b = amb,out = or1);
+    OR(a = ana,b = anb,out = or1);
     OR(a = or1,b = anc,out = carry);
 }
