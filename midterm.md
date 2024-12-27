@@ -2,6 +2,7 @@
 ## 第一週習題：第一章 1-6 題
 自行學習
 [Not](https://github.com/Micha1lyu/_co/blob/master/01/Not.hdl)
+
 [And](https://github.com/Micha1lyu/_co/blob/master/01/And.hdl)
 [Or](https://github.com/Micha1lyu/_co/blob/master/01/Or.hdl)
 [Xor](https://github.com/Micha1lyu/_co/blob/master/01/Xor.hdl)
