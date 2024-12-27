@@ -65,4 +65,5 @@
 
 [PC](https://github.com/Micha1lyu/_co/blob/master/03/a/PC.hdl)
 ## 第七週習題 -- 第四章 第一題
+參考同學與使用gpt了解
 [mult](https://github.com/Micha1lyu/_co/tree/master/04/mult)
