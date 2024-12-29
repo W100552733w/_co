@@ -1,1 +1,62 @@
+W1
 
+Not: https://github.com/W100552733w/_co/blob/master/01/Not.hdl
+And: https://github.com/W100552733w/_co/blob/master/01/And16.hdl
+Or: https://github.com/W100552733w/_co/blob/master/01/Or.hdl
+Xor: https://github.com/W100552733w/_co/blob/master/01/Xor.hdl
+Mux: https://github.com/W100552733w/_co/blob/master/01/Mux.hdl
+DMux: https://github.com/W100552733w/_co/blob/master/01/DMux.hdl
+
+W2
+
+1.Not16: https://github.com/W100552733w/_co/blob/master/01/Not16.hdl
+2.And16: https://github.com/W100552733w/_co/blob/master/01/And16.hdl
+3.Or16: https://github.com/W100552733w/_co/blob/master/01/Or16.hdl
+4.Mux16: https://github.com/W100552733w/_co/blob/master/01/Mux16.hdl
+5.Or8Way: https://github.com/W100552733w/_co/blob/master/01/Or8Way.hdl
+6.Mux4Way16: https://github.com/W100552733w/_co/blob/master/01/Mux4Way16.hdl
+7.Mux8Way16: https://github.com/W100552733w/_co/blob/master/01/Mux8Way16.hdl
+8.DMux4Way: https://github.com/W100552733w/_co/blob/master/01/DMux4Way.hdl
+9.DMux8Way: https://github.com/W100552733w/_co/blob/master/01/DMux8Way.hdl
+
+W3
+
+HalhAdder: https://github.com/W100552733w/_co/blob/master/02/HalfAdder.hdl
+FullAdder: https://github.com/W100552733w/_co/blob/master/02/FullAdder.hdl
+Add16: https://github.com/W100552733w/_co/blob/master/02/Add16.hdl
+Inc16: https://github.com/W100552733w/_co/blob/master/02/Inc16.hdl
+
+W4
+
+ALU: https://github.com/W100552733w/_co/blob/master/02/ALU.hdl
+
+W5
+
+Bit: https://github.com/W100552733w/_co/blob/master/03/a/Bit.hdl
+Register: https://github.com/W100552733w/_co/blob/master/03/a/Register.hdl
+RAM8: https://github.com/W100552733w/_co/blob/master/03/a/RAM8.hdl
+RAM64: https://github.com/W100552733w/_co/blob/master/03/a/RAM64.hdl
+
+W6
+
+RAM512: https://github.com/W100552733w/_co/blob/master/03/b/RAM512.hdl
+RAM4K: https://github.com/W100552733w/_co/blob/master/03/b/RAM4K.hdl
+RAM16K: https://github.com/W100552733w/_co/blob/master/03/b/RAM16K.hdl
+PC: https://github.com/W100552733w/_co/blob/master/03/a/PC.hdl
+
+W7
+
+mult: https://github.com/W100552733w/_co/blob/master/04/mult/mult.asm
+
+W8
+
+fill: https://github.com/W100552733w/_co/blob/master/04/fill/Fill.asm
+
+W9
+
+CPU: https://github.com/W100552733w/_co/blob/master/05/CPU.hdl
+
+W10
+
+Ｍemory: https://github.com/W100552733w/_co/blob/master/05/Memory.hdl
+Computer: https://github.com/W100552733w/_co/blob/master/05/Computer.hdl
